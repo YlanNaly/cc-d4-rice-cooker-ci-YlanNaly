@@ -69,6 +69,7 @@ This project can be seamlessly developed using IntelliJ IDEA with the Scala plug
 - **Code Navigation**: Use keyboard shortcuts like `Ctrl + Click` or `Cmd + Click` to navigate to the definition of classes, methods, or traits.
 
 - **Running Scala Code**: Run the Scala Rice Cooker application directly from IntelliJ IDEA by configuring a run configuration and executing the `Main.scala` file.
+- **Test case** : Run the Scala Rice Cooker Test to know if it run as expected .
 
 ## Style
 
